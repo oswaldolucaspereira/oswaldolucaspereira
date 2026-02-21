@@ -31,12 +31,13 @@ Registro de clientes, produtos, quantidades, valores e datas de venda.
 
 ## 🛠 Habilidades Desenvolvidas nos Projetos
 
-- Excel (intermediário)
-- Estruturação de bases de dados
-- Organização administrativa
-- Controle de processos empresariais
-- Noções de SQL
-- Análise básica de dados
+- Excel (Intermediário)
+- SQL (Intermediário)
+- Estruturação e Manipulação de Bases de Dados
+- Análise de Dados
+- Organização e Padronização de Processos Administrativos
+- Word ( Intermediário )
+- Pesquisas técnica e resolução de problemas
 
 ---
 
