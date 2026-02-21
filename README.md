@@ -4,7 +4,7 @@
 
 🎓 Estudante de Técnico em Administração – ETEC PERUÍBE
 
-📊 Estudante de Análise de Dados - CURSO ONLINE 
+📊 Estudante de Análise de Dados - CURSO ONLINE EDULIV PAULO FRÓES
 
 📈 Foco em Controle Administrativo, Organização de Processos e Dados  
 
