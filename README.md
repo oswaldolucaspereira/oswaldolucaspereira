@@ -1,16 +1,43 @@
-## Hi there 👋
+# 📊 Administração + Análise de Dados na Prática  
 
-<!--
-**oswaldolucaspereira/oswaldolucaspereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá, eu sou Oswaldo Lucas  
 
-Here are some ideas to get you started:
+🎓 Estudante de Técnico em Administração – ETEC  
+📊 Estudante de Análise de Dados  
+📈 Foco em Controle Administrativo, Organização de Processos e Dados  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Portfólio de Projetos Administrativos
+
+📁 **Controle Logístico de Entregas**  
+Sistema para monitoramento de pedidos, prazos, transportadoras e marketplaces.
+
+📁 **Controle Financeiro Empresarial**  
+Sistema para registro e organização de receitas, despesas e controle financeiro.
+
+📁 **Controle de Recursos Humanos (RH)** *(Em desenvolvimento)*  
+Cadastro de funcionários, cargos, salários, admissão e status.
+
+📁 **Controle de Estoque** *(Em desenvolvimento)*  
+Gestão de entradas, saídas, saldo de produtos, fornecedores e valores.
+
+📁 **Controle de Vendas** *(Em desenvolvimento)*  
+Registro de clientes, produtos, quantidades, valores e datas de venda.
+
+---
+
+## 🛠 Habilidades Desenvolvidas nos Projetos
+
+- Excel (intermediário)
+- Estruturação de bases de dados
+- Organização administrativa
+- Controle de processos empresariais
+- Noções de SQL
+- Análise básica de dados
+
+---
+
+## 🎯 Objetivo Profissional
+
+Construir carreira na área administrativa e de análise de dados, aplicando controle de processos, organização de informações e análise estratégica para apoiar decisões e otimizar resultados empresariais.
