@@ -3,7 +3,9 @@
 👋 Olá, eu sou Oswaldo Lucas  
 
 🎓 Estudante de Técnico em Administração – ETEC PERUÍBE
+
 📊 Estudante de Análise de Dados - CURSO ONLINE 
+
 📈 Foco em Controle Administrativo, Organização de Processos e Dados  
 
 ---
