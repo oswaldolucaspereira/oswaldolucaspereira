@@ -18,13 +18,13 @@ Sistema para monitoramento de pedidos, prazos, transportadoras e marketplaces.
 📁 **Controle Financeiro Empresarial**  
 Sistema para registro e organização de receitas, despesas e controle financeiro.
 
-📁 **Controle de Recursos Humanos (RH)** *(Em desenvolvimento)*  
+📁 **Controle de Recursos Humanos (RH)** 
 Cadastro de funcionários, cargos, salários, admissão e status.
 
-📁 **Controle de Estoque** *(Em desenvolvimento)*  
+📁 **Controle de Estoque** *
 Gestão de entradas, saídas, saldo de produtos, fornecedores e valores.
 
-📁 **Controle de Vendas** *(Em desenvolvimento)*  
+📁 **Controle de Vendas**  
 Registro de clientes, produtos, quantidades, valores e datas de venda.
 
 ---
